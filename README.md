@@ -12,4 +12,6 @@ Disciplina: Programação para internet 2- Prof. Fábio Henrique
 
 Tecnologias: Python e Django
 
-Status: Em desenvolvimento...
+Status: Finalizado
+
+Link para a aplicação:http://lucasv.pythonanywhere.com/
