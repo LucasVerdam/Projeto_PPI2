@@ -18,4 +18,3 @@ urlpatterns =[
     path('convite/aceitar/<int:convite_id>', views.aceitar, name='aceitar'),
     path('login/', auth_views.obtain_auth_token, name='login')
 ]
-    

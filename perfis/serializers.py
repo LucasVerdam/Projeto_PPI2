@@ -62,3 +62,4 @@ class ConviteSerializer(serializers.ModelSerializer):
         model = Convite
         fields = ('id', 'convidado', 'solicitante')
         read_only_fields = ('id',)
+
